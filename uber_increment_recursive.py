@@ -1,3 +1,4 @@
+#this is for  a 4 item list of numbers
 def increment(num_list):
     if num_list == sorted(num_list, reverse=True):
         print("Done")
